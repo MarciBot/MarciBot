@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MarciBot
-- 👀 I’m interested in ...boys
+- 👀 I’m interested in ...Brawl Stars
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...Brawler
-- 😄 Pronouns: ...Soy gay XDDDDD
+- 😄 Pronouns: ...He/Him
 
 <!---
 MarciBot/MarciBot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
