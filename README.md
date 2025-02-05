@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MarciBot
 - 👀 I’m interested in ...Brawl Stars
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...Brawler
+- 💞️ I’m looking to collaborate on ...Trebor y Piedrita
 - 😄 Pronouns: ...He/Him
 
 <!---
